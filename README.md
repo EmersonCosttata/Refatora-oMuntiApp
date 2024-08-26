@@ -52,6 +52,7 @@ npm install axios jose json-server jwt-decode qrcode.react react react-dom react
 
 Se quiser somente acessar: https://refatora-o-munti-app.vercel.app/
 
+Login: admin senha: password
 
 
 

@@ -15,21 +15,27 @@ Requisições e Integrações
 Realização de requisições a APIs externas, incluindo Google e TMDB, para fornecer funcionalidades avançadas dentro do app.
 
 Gerador de QR Code
+
 Ferramenta integrada para a criação rápida e fácil de QR Codes personalizados.
 
 To-Do App
+
 Um aplicativo de lista de tarefas que permite aos usuários gerenciar suas atividades diárias de forma organizada e eficiente.
 
 Tradutor de Idiomas
+
 Utilização da API de tradução do Google para oferecer um tradutor de idiomas dentro do app, permitindo traduções rápidas e precisas.
 
 Quiz de Matemática
+
 Um quiz interativo de matemática que testa as habilidades dos usuários em operações básicas, gerando perguntas de forma aleatória.
 
 Motor de Busca de Filmes
+
 Ferramenta de busca de filmes que utiliza a API do TMDB para fornecer informações detalhadas sobre filmes, incluindo sinopses, avaliações e trailers.
 
 Tecnologias Utilizadas:
+
 Autenticação: JWT, Google OAuth 2.0
 APIs: Google Translate, Google OAuth 2.0, TMDB
 Frontend: React com Lazy Load para otimização
@@ -44,7 +50,7 @@ Apos isso: execute a instalação das dependencias :
 
 npm install axios jose json-server jwt-decode qrcode.react react react-dom react-icons react-responsive-carousel react-router-dom styled-components
 
-Se quiser somente acessar: 
+Se quiser somente acessar: https://refatora-o-munti-app.vercel.app/
 
 
 

@@ -25,7 +25,6 @@ export const AuthProvider = ({ children }) => {
       await createToken(user); 
       setIsAuthenticated(true);
       localStorage.setItem('isAuthenticated', 'true')
-      console.log(isAuth)
     } catch (error) {
       alert('Erro ao fazer login JWT:', error)
       setIsAuthenticated(false);

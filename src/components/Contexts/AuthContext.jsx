@@ -1,5 +1,5 @@
 import React, { createContext, useState, useContext, useEffect } from 'react';
-import { createToken, verifyToken } from '../Jwt/Jwt'; // Atualize o caminho conforme necessário
+import { createToken, verifyToken } from '../Jwt/Jwt'; 
 
 const AuthContext = createContext();
 
